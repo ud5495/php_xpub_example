@@ -88,10 +88,10 @@ Edit `.env` and set your XPUB keys:
 
 ```env
 BTC_XPUB_KEY=your_bitcoin_zpub  use EXODUS WALLET TO EXPORT zpub
-DOGE_XPUB_KEY=your_dogecoin_xpub use EXODUS WALLET TO EXPORT Zpub
-LTC_XPUB_KEY=your_litecoin_xpub use EXODUS WALLET TO EXPORT Zpub
-BCASH_XPUB_KEY=your_bitcoincash_xpub use EXODUS WALLET TO EXPORT Zpub
-DASH_XPUB_KEY=your_dash_xpub use EXODUS WALLET TO EXPORT Zpub
+DOGE_XPUB_KEY=your_dogecoin_xpub use EXODUS WALLET TO EXPORT xpub
+LTC_XPUB_KEY=your_litecoin_xpub use EXODUS WALLET TO EXPORT xpub
+BCASH_XPUB_KEY=your_bitcoincash_xpub use EXODUS WALLET TO EXPORT xpub
+DASH_XPUB_KEY=your_dash_xpub use EXODUS WALLET TO EXPORT xpub
 ETH_XPUB_KEY=your_ethereum_xpub USE /node/ethxpub.js
 TRON_XPUB_KEY=your_tron_xpub USE /node/tronxpub.js
 XRP_XPUB_KEY=your_xrp_xpub USE /node/xrpxpub.js
